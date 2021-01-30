@@ -5,5 +5,5 @@ This repository contains message and service definitions used for mavs. All futu
 
 Update to `colcon` in progress:
 
-  colcon build --packages-select mav_msgs
+    colcon build --packages-select mav_msgs
   
